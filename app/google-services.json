@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903026348984",
+    "project_id": "vdev-notify",
+    "storage_bucket": "vdev-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903026348984:android:20312f1fbe89cf6cdff54d",
+        "android_client_info": {
+          "package_name": "com.example.vdev_notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903026348984-uetstfh908og7g2qi1ljeqt8073ndltn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgsuK2o7aWNuhnnA-w426A0MqnOWTdz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903026348984-uetstfh908og7g2qi1ljeqt8073ndltn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
